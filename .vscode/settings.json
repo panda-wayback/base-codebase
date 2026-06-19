@@ -1,0 +1,8 @@
+{
+  "code-runner.executorMap": {
+    "dart": "cd $dir && dart run $fileName"
+  },
+  "code-runner.runInTerminal": true,
+  "code-runner.fileDirectoryAsCwd": true,
+  "code-runner.ignoreSelection": true
+}
