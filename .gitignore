@@ -1,0 +1,54 @@
+# --- 操作系统 ---
+.DS_Store
+Thumbs.db
+
+# --- IDE / 编辑器 ---
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+
+# Code Runner 临时文件
+**/tempCodeRunnerFile.*
+
+# --- Dart ---
+.dart_tool/
+.packages
+build/
+*.dart.js
+*.info.json
+*.js.deps
+*.js.map
+coverage/
+doc/api/
+
+# --- Python（预留）---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# --- JavaScript / TypeScript（预留）---
+node_modules/
+dist/
+*.tsbuildinfo
+
+# --- Java / Kotlin（预留）---
+*.class
+target/
+.gradle/
+
+# --- Go（预留）---
+bin/
+*.exe
+*.test
+
+# --- Rust（预留）---
+target/
+
+# --- 日志与临时文件 ---
+*.log
+tmp/
+temp/

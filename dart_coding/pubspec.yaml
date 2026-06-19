@@ -1,0 +1,9 @@
+name: dart_coding
+description: Dart 基础学习示例
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  test: ^1.25.0
